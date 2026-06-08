@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wizard Duel
 
 Card game temático do universo Harry Potter, desenvolvido com Node.js + Express no back-end e HTML/CSS/JS puro no front-end, consumindo a [PotterDB API](https://api.potterdb.com).
@@ -110,3 +111,7 @@ wizard-duel/
 - Arquivo `REFATORACAO.md` documentando:
   - Lista de problemas encontrados
   - Decisões tomadas durante a refatoração
+=======
+# wizard-duel-refatorado
+trabalho_de_ambientes_de_desenvolvimento_de_software
+>>>>>>> 54d75e38eddade2605bb826bc1df109fe5317cea
